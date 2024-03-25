@@ -1,3 +1,5 @@
+package br.com.abreu;
+
 public class Calculadora {
 
   public int soma(int x , int y){
